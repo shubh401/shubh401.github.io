@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello Visitor!"
+title: "Shubham Agarwal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
