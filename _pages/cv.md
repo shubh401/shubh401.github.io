@@ -22,7 +22,7 @@ Work experience
   * Contribution: Low-level networking protocol design and maintenance
   * Supervisor: Seifeddine Fathalli
 
-* May, 2020 - November, 2020: Student Assistant
+* May, 2019 - November, 2019: Student Assistant
   * IT Inkubator (Foldio) - Saarland University - Saarbrücken, DE
   * Contribution: Core Library Development and Integration.
 
@@ -41,4 +41,6 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Please find more details here: ([PDF](/files/CV_SHUBHAM_AGARWAL.pdf))
 
