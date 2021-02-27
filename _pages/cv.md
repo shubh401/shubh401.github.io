@@ -30,17 +30,6 @@ Work experience
   * INSZoom Technology Services Private Limited - Bangalore, IN
   * Contribution: Design & Implementation of Secure Authentication Module, Web Services for Routine Actions, Third-Party REST Web API Integration Chrome Extensions, Database Design, User Interfaces and Automated Testing Modules.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 #### Please find more details here (PDF): [CV_SHUBHAM_AGARWAL](/files/CV_SHUBHAM_AGARWAL.pdf)
 
