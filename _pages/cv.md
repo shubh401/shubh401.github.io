@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Saarland University and CISPA-Helmholtz Center for Information Security - Saarbrücken, DE. (Since 2021)
+* M.Sc. in Computer Science - Saarland University, DE, 2021
+* B.Tech. in Computer Science & Engineering - Vellore Institute of Technology, IN, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2020 - 2021: Research Assistant
+  * Internet Architecture (D3) : Max Planck Institute for Informatics - Saarbrücken, DE
+  * Contribution: Low-level networking protocol design and maintenance
+  * Supervisor: Seifeddine Fathalli
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May, 2020 - November, 2020: Student Assistant
+  * IT Inkubator (Foldio) - Saarland University - Saarbrücken, DE
+  * Contribution: Core Library Development and Integration.
+
+* February, 2017 - March, 2018: Product Engineering Trainee
+  * INSZoom Technology Services Private Limited - Bangalore, IN
+  * Contribution: Design & Implementation of Secure Authentication Module, Web Services for Routine Actions, Third-Party REST Web API Integration Chrome Extensions, Database Design, User Interfaces and Automated Testing Modules.
 
 Publications
 ======
@@ -42,18 +36,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

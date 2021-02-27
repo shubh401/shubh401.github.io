@@ -8,4 +8,4 @@ date: 2019-10-01 - 2021-03-2020
 location: "Saarbrücken, DE"
 ---
 
-Served as Project Manager for course projects involving graduate students and third-party clients.
+Served as Project Manager for course projects involving under-graduate and graduate students along with third-party clients.
