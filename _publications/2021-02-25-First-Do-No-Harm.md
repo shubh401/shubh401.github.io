@@ -8,6 +8,6 @@ paperurl: #'https://madweb.work/preprints/madweb21-paper16-pre_print_version.pdf
 citation: 'Agarwal, S. and Stock, B. (2021). "First, Do No Harm: Studying the manipulation of security headers in browser extensions." <i>Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb) 2021</i>. 1(1).'
 ---
 
-[Download paper here](https://madweb.work/preprints/madweb21-paper16-pre_print_version.pdf)
+[Download paper here](/files/MADWEB_21_Submission_16_Pre_Print.pdf)
 
 Recommended citation: Agarwal, S. and Stock, B. (2021). "First, Do No Harm: Studying the manipulation of security headers in browser extensions." <i>Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb) 2021</i>. 1(1).

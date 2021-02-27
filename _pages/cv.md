@@ -42,5 +42,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Please find more details here: ([PDF](/files/CV_SHUBHAM_AGARWAL.pdf))
+#### Please find more details here (PDF): [CV_SHUBHAM_AGARWAL](/files/CV_SHUBHAM_AGARWAL.pdf)
 
