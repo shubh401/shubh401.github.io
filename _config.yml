@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shubham Agarwal"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at CISPA – Helmholtz Center for Information Security, DE"
+  bio              : "Ph.D. Student at CISPA – Helmholtz Center for Information Security & Saarland University, Saarbrücken, DE"
   location         : "Saarbrücken, DE"
   employer         : #"CISPA-Helmholtz Centre for Information Security"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Z8e-dy0AAAAJ&hl=en"
   email            : "shubham.agarwal@cispa.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
